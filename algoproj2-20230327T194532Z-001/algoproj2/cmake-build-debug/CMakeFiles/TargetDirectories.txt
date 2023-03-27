@@ -1,0 +1,3 @@
+C:/Users/prest/Downloads/algoproj2-20230327T194532Z-001/algoproj2/cmake-build-debug/CMakeFiles/algoproj2.dir
+C:/Users/prest/Downloads/algoproj2-20230327T194532Z-001/algoproj2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/prest/Downloads/algoproj2-20230327T194532Z-001/algoproj2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
